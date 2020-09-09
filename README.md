@@ -10,11 +10,11 @@ System.py\
 
 The following notebooks are used for model validation:\
 Simulation Validation and Analysis\
-Model Validation\
+Model Validation
 
 The following notebooks look at the impact of mobile ordering:\
 Value of Mobile Ordering\
-Value of Mobile Ordering with Vac and Aband\
+Value of Mobile Ordering with Vac and Aband
 
 The following looks at the optimal switching policy for the baristas to work at the cash vs. bar:\
 Switching Policy
