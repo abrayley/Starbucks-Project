@@ -6,7 +6,7 @@ The following files are define the classes used:\
 Person.py\
 Starbucks.py\
 Employee.py\
-System.py\
+System.py
 
 The following notebooks are used for model validation:\
 Simulation Validation and Analysis\
